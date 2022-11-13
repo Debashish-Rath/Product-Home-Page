@@ -24,7 +24,7 @@ This assignment was given to us as part of our ongoing **"JavaScript Full Stack 
 
 👉 Placing images in a web page using Position properties.
 👉 How to move a container to center by both vertically as well as horizontally.
-👉 Use of Flexbox to give responsiveness to a Web Page.
+👉 Use of Flexbox and Media Query to give responsiveness to a Web Page.
 
 ## 📬 Connect With Me
 
